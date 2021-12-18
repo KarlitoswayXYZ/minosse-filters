@@ -1,0 +1,31 @@
+{
+
+  "Demo1-2kHz-12dB-FLAT": {
+    "left-bass":"1.4",
+    "left-treble":"183.4",
+    "right-bass":"7,777777",
+    "right-treble":"12.7"
+  },
+
+  "Demo2-4kHz-24dB-BASIN": {
+    "left-bass":"184",
+    "left-treble":"218,4",
+    "right-bass":"777,777",
+    "right-treble":"0.777777"
+  },
+
+  "your-coefficient-id-here": {
+    "left-bass":"18.454566",
+    "left-treble":"8.490888",
+    "right-bass":"117,1",
+    "right-treble":"99"
+  },
+
+  "another-coefficient-id-of-yours": {
+    "left-bass":"318.4",
+    "left-treble":"618.4",
+    "right-bass":"77.77",
+    "right-treble":"0,777777"
+  }
+
+}

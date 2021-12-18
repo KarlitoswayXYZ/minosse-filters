@@ -1,0 +1,27 @@
+{
+
+  "Demo1-120Hz-18dB-FLAT": {
+    "left":"18.4",
+    "right":"7,777777",
+    "sub":"48.2"
+  },
+
+  "Demo2-200Hz-36dB-BASIN": {
+    "left":"0.1",
+    "right":"24",
+    "sub":"34,2387678"
+  },
+
+  "your-coefficient-id-here": {
+    "left":"10",
+    "right":"100.99",
+    "sub":"16.7"
+  },
+
+  "another-coefficient-id-of-yours": {
+    "left":"7,2",
+    "right":"29",
+    "sub":"33.20"
+  }
+
+}

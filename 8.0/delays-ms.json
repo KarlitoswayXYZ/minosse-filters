@@ -1,0 +1,47 @@
+{
+
+  "Demo1-110Hz-24dB-350Hz-18dB-3kHz-6dB-FLAT": {
+    "left-bass":"1.4",
+    "left-midbass":"1.48321",
+    "left-midrange":"183.4",
+    "left-treble":"183.4",
+    "right-bass":"7,777777",
+    "right-midbass":"7",
+    "right-midrange":"7,777777",
+    "right-treble":"12.7"
+  },
+
+  "Demo2-180Hz-48dB-1kHz-36dB-5kHz-48dB-BASIN": {
+    "left-bass":"184",
+    "left-midbass":"1.48321",
+    "left-midrange":"183.4",
+    "left-treble":"218,4",
+    "right-bass":"777,777",
+    "right-midbass":"7",
+    "right-midrange":"7,777777",
+    "right-treble":"0.777777"
+  },
+
+  "your-coefficient-id-here": {
+    "left-bass":"18.454566",
+    "left-midbass":"1.48321",
+    "left-midrange":"183.4",
+    "left-treble":"8.490888",
+    "right-bass":"117,1",
+    "right-midbass":"7",
+    "right-midrange":"7,777777",
+    "right-treble":"99"
+  },
+
+  "another-coefficient-id-of-yours": {
+    "left-bass":"318.4",
+    "left-midbass":"1.48321",
+    "left-midrange":"183.4",
+    "left-treble":"618.4",
+    "right-bass":"77.77",
+    "right-midbass":"7",
+    "right-midrange":"7,777777",
+    "right-treble":"0,777777"
+  }
+
+}

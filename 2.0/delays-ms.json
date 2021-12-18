@@ -1,0 +1,33 @@
+{
+
+  "Demo1-FLAT": {
+    "left":"18.43",
+    "right":"7,12"
+  },
+
+  "Demo2-BASIN": {
+    "left":"0.808089",
+    "right":"24"
+  },
+
+  "IL-DJ310-QP-NEUTRAL": {
+    "left":"2",
+    "right":"0"
+  },
+
+  "IL-DJ310-QP-RADIO-SRC": {
+    "left":"2",
+    "right":"0"
+  },
+
+  "your-coefficient-id-here": {
+    "left":"10",
+    "right":"100,0000"
+  },
+
+  "another-coefficient-id-of-yours": {
+    "left":"7.2679",
+    "right":"29,00056712"
+  }
+
+}
